@@ -151,7 +151,7 @@
             <h1 style="font-size: 3rem;">💖</h1>
             <p style="line-height: 1.8; margin-bottom: 20px;">
                 <strong>Happy Birthday Unnati!</strong><br>
-                May your 20s be as beautiful and unforgettable as you are.
+                May your 20s be as beautiiful and unforgettable as you are.
             </p>
             <button class="btn btn-yes" onclick="spawnDecor('🧸')">Send a Hug 🧸</button>
         </div>
